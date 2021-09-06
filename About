@@ -1,2 +1,11 @@
 Dirty COW vulnerability is a type of privilege escalation exploit, which essentially means that it can be used to gain root-user access on any Linux-based system.
 While security experts claim that such kinds of exploits are not uncommon, its easy-to-exploit nature and the fact that it has been around for more than 11 years is pretty worrisome.
+Dirty COW gets its name from the copy-on-write (COW) mechanism in the kernel's memory management system.
+Malicious programs can potentially set up a race condition to turn a read-only mapping of a file into a writable mapping.
+Thus, an underprivileged user could utilize this flaw to elevate their privileges on the system.
+By gaining root privileges, malicious programs obtain unrestricted access to the system. 
+From there on, it can modify system files, deploy keyloggers, access personal data stored on your device, etc.
+It's no secret that the Dirty COW vulnerability affects a large number of systems.
+Thankfully, companies have sprung into action quickly to damage-control the situation. 
+Most of the Linux-based systems like Ubuntu, Debian, and Arch-Linux have been patched. 
+Google has deployed Play Protect to scan for affected apps on Android.
