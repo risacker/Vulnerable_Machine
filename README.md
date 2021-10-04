@@ -15,9 +15,9 @@ Dirty COW vulnerability affects all versions of the Linux Kernel since version 2
 While most of the mainstream systems have been patched, there are several other Linux-based embedded devices like IoT devices that are still vulnerable. Since Android is based on the Linux kernel, a majority of Android devices are also affected.
 
 
+#### How can you protect yourself from malware(ZNIU) attacks:
 
-
-
+<b>ZNIU</b> is the first malware for Android based on the Dirty COW vulnerability. It can be utilized to root any Android devices up to <b>Android 7.0 Nougat</b>. While the vulnerability itself affects all versions of Android, ZNIU specifically affects Android devices with the <b>ARM/X86 64-bit architecture</b>. The ZNIU-affected app often appears as a soft-porn app on malicious websites, where users are tricked into downloading it. Since Android makes it easy to sideload apps, a lot of novice users fall into this trap and download it. If your device is running Android 4.4 KitKat and above, make sure that you have the latest security patch installed. To check this, open <b>Settings > About phone</b>. Scroll to the bottom and check <b>Android security patch level</b>. If the installed security patch is newer than December 2016, you should be protected from this vulnerability. While <b>Android antivirus apps</b> can detect such elevated-permission attacks, they cannot prevent it. Anti-virus apps may be useful for other features such as anti-theft, but they certainly aren't much use in this case. As a final precaution, you should be mindful when it comes to installing apps from unknown sources. <b>Android 8.0 Oreo</b> makes installing apps from unknown sources a little bit safer, but you should still proceed with caution.
 
 
 
