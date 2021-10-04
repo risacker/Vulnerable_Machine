@@ -1,6 +1,6 @@
 # De-COW(Vuln_Machine)
 
-Name of vulnerable machine: <b>De_COW</b>.
+Name of vulnerable machine: <b>De-COW</b>.
 
 #### What is De-COW:
 
@@ -19,6 +19,15 @@ While most of the mainstream systems have been patched, there are several other 
 
 <b>ZNIU</b> is the first malware for Android based on the Dirty COW vulnerability. It can be utilized to root any Android devices up to <b>Android 7.0 Nougat</b>. While the vulnerability itself affects all versions of Android, ZNIU specifically affects Android devices with the <b>ARM/X86 64-bit architecture</b>. The ZNIU-affected app often appears as a soft-porn app on malicious websites, where users are tricked into downloading it. Since Android makes it easy to sideload apps, a lot of novice users fall into this trap and download it. If your device is running Android 4.4 KitKat and above, make sure that you have the latest security patch installed. To check this, open <b>Settings > About phone</b>. Scroll to the bottom and check <b>Android security patch level</b>. If the installed security patch is newer than December 2016, you should be protected from this vulnerability. While <b>Android antivirus apps</b> can detect such elevated-permission attacks, they cannot prevent it. Anti-virus apps may be useful for other features such as anti-theft, but they certainly aren't much use in this case. As a final precaution, you should be mindful when it comes to installing apps from unknown sources. <b>Android 8.0 Oreo</b> makes installing apps from unknown sources a little bit safer, but you should still proceed with caution.
 
+#### Steps to be Followed in making of Vulnerable Machine:
+
+Step 1: Download old releases of Ubuntu.
+
+     Visit http://old-releases.ubuntu.com/releases/ if you want to download old releases of ubuntu.
+     
+I have downloaded <b>16.04.1/ version</b> for making this vulnerable machine.
+
+Step 2: Use virtual box to install this as it is easy to export the OVA file that you later will upload on some CTF platforms.
 
 
 
@@ -28,16 +37,7 @@ While most of the mainstream systems have been patched, there are several other 
 
 
 
-
-
-
-
-
-
-
-
-
-#### Link for De-COW(Vuln_Machine):
+### Link for De-COW(Vuln_Machine):
 
 https://drive.google.com/file/d/1Wr4Q3rI9elqvRNQpk32TDMVlKtSxAxqN/view?usp=sharing
 
