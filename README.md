@@ -27,7 +27,7 @@ Step 1: Download old releases of Ubuntu.
      
 I have downloaded <b>16.04.1/ version</b> for making this vulnerable machine.
 
-Step 2: Use virtual box to install this as it is easy to export the OVA file that you later will upload on some CTF platforms.
+Step 2: Use virtual box to install this as it is easy to export the <b>OVA file</b> that you later will upload on some CTF platforms.
 
 
 
