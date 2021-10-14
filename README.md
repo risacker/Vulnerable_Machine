@@ -66,6 +66,17 @@ Step 8: To connet ftp service run the following command:
 
 <img src = https://telegra.ph/file/6c783d83391e49b784f82.png>
 
+Step 9: To configure HTTP server we have to allow ufw (Uncomplicated Firewall) to enable traffic for http or port 80 by running the following command:
+
+        ufw allow http
+
+
+
+
+
+
+
+
 ### Link for De-COW(Vuln_Machine):
 
 https://drive.google.com/file/d/1Wr4Q3rI9elqvRNQpk32TDMVlKtSxAxqN/view?usp=sharing
