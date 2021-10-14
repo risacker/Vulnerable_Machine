@@ -70,7 +70,7 @@ Step 9: To configure HTTP server we have to allow ufw (Uncomplicated Firewall) t
 
         ufw allow http
 
-
+<img src = https://telegra.ph/file/dfe73626472965339cf03.png>
 
 
 
