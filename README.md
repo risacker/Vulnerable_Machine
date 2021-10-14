@@ -76,7 +76,9 @@ Step 10: Run php on web pages
 
 <img src = https://telegra.ph/file/401104e5715a46c3c80c6.png>
 
+Step 11: Inorder to create page vulnerable to RCE we need to do something like this:
 
+<img src = https://telegra.ph/file/2ed96295b68b61af40af5.png>
 
 
 ### Link for De-COW(Vuln_Machine):
