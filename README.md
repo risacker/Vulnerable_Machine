@@ -56,7 +56,12 @@ Step 6: To make a backup of configuration file, run the following command:
 
 <img src = https://telegra.ph/file/2c1985c896beb5b3ecfb4.png>
 
+Step 7: To enable ftp service run the following command:
 
+       service vsftp start
+     
+Step 8: To connet ftp service run the following command:
+        ftp localhost
 
 
 ### Link for De-COW(Vuln_Machine):
