@@ -30,7 +30,7 @@ I have downloaded <b>16.04.1/ version</b> for making this vulnerable machine.
 Step 2: Use virtual box to install this as it is easy to export the <b>OVA file</b> that you later will upload on some CTF platforms.
 
 
-
+<img src= https://telegra.ph/file/a7a8c8dce90368f67a4a5.png>
 
 
 
