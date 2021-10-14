@@ -46,9 +46,13 @@ Step 4:  In order to add <i>root and hidden flags</i> just type any text and pip
 <img src = https://telegra.ph/file/5b526c217e401d1e7e330.png>
 <img src = https://telegra.ph/file/6e5e7bae4aa4e0b30efec.png>
 
+Step 5: In order to configure FTP server on this box run the following command:
 
+      vsftpd
 
+Step 6: To make a backup of configuration file, run the following command:
 
+     cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
 
 
 
