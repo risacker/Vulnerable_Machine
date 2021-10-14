@@ -32,8 +32,13 @@ Step 2: Use virtual box to install this as it is easy to export the <b>OVA file<
 
 <img src= https://telegra.ph/file/a7a8c8dce90368f67a4a5.png>
 
+Step 3: We have to exploit this box through Dirty Cow and it is written in <b>C language</b> so we need a compiler. For this is <b>gcc</b> so we check the version of gcc by running the command:
+    
+    gcc --version
+    
+If it is not installed before then run the following command to install it:
 
-
+   <i>apt install gcc</i>
 
 
 
