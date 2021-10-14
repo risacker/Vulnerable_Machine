@@ -40,7 +40,8 @@ If it is not installed before then run the following command to install it:
 
    <i>apt install gcc</i>
 
-
+Step 4:  In order to place flags just type any text and pipe into md5sum to get a md5 hash and store it in files and make sure to give it permissions that only specific user can read those flags.
+<img src = https://telegra.ph/file/9c836dd7b719090f183f1.png>
 
 ### Link for De-COW(Vuln_Machine):
 
