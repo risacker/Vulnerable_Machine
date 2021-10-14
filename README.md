@@ -61,8 +61,10 @@ Step 7: To enable ftp service run the following command:
        service vsftp start
      
 Step 8: To connet ftp service run the following command:
+
         ftp localhost
 
+<img src = https://telegra.ph/file/6c783d83391e49b784f82.png>
 
 ### Link for De-COW(Vuln_Machine):
 
