@@ -72,7 +72,9 @@ Step 9: To configure HTTP server we have to allow ufw (Uncomplicated Firewall) t
 
 <img src = https://telegra.ph/file/dfe73626472965339cf03.png>
 
+Step 10: Run php on web pages
 
+<img src = https://telegra.ph/file/401104e5715a46c3c80c6.png>
 
 
 
