@@ -54,7 +54,7 @@ Step 6: To make a backup of configuration file, run the following command:
 
      cp /etc/vsftpd.conf /etc/vsftpd.conf.orig
 
-
+<img src = https://telegra.ph/file/2c1985c896beb5b3ecfb4.png>
 
 
 
