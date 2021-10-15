@@ -84,7 +84,7 @@ Step 12: To export this vulnerable machine into OVA format, go to <i> File > Exp
 
 <b> Export is completed!!!</b>
 
-<i> NOTE: If any command doesn't run then add <b>sudo</b> before the command </i>
+<i> NOTE: If any command doesn't run then prefix <b>sudo</b> before the command which will give administrative privileges to the user.</i> 
 
 
 ### Link for De-COW(Vuln_Machine):
