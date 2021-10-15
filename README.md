@@ -80,6 +80,8 @@ Step 11: Inorder to create page vulnerable to RCE we need to do something like t
 
 <img src = https://telegra.ph/file/2ed96295b68b61af40af5.png>
 
+Step 12: To export this vulnerable machine into OVA format, go to <i> File > Export Appliance </i> then select your virtual machine.
+
 
 ### Link for De-COW(Vuln_Machine):
 
