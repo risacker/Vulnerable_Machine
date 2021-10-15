@@ -82,6 +82,10 @@ Step 11: Inorder to create page vulnerable to RCE we need to do something like t
 
 Step 12: To export this vulnerable machine into OVA format, go to <i> File > Export Appliance </i> then select your virtual machine.
 
+<b> Export is completed!!!</b>
+
+<i> NOTE: If any command doesn't run then add <b>sudo</b> before the command </i>
+
 
 ### Link for De-COW(Vuln_Machine):
 
